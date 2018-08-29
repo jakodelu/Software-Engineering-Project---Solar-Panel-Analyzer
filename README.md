@@ -1,4 +1,4 @@
-# Guide to install Solar Panel Analyzer (SPA) - Beta Version 1.2 (SE-PROJECT-46)
+# Guide to install and run Solar Panel Analyzer (SPA) - Beta Version 1.2 (SE-PROJECT-46)
 
 ## Getting Started
 
@@ -73,7 +73,7 @@ Developing and testing SPA, tifffile libraries gave some problems. To solve this
 ## Running
 
 Only after above instructions, SPA can be executed only by CLI (Command Line Interface).
-There are 2 different modes of running: unsing GUI and directly from Terminal.
+There are 2 different modes of running: using GUI and directly from Terminal.
 
 ### 1) Using GUI
 
@@ -101,7 +101,7 @@ Press **'Help'** in SPA for more info.
 
 ## Author
 
-***Jacopo De Luca***
-***Corso di Software Engineering***
-***Corso di Laurea Magistrale in Ingegneria Informatica - DIBRIS***
+***Jacopo De Luca*** <br />
+***Corso di Software Engineering*** <br />
+***Corso di Laurea Magistrale in Ingegneria Informatica - DIBRIS*** <br />
 ***Università degli Studi di Genova***
