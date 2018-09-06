@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-These instructions will get you a way to install and run SPA in your computer.
+These instructions get you a way to install and run SPA in your computer.
 
 SPA works in Linux (Ubuntu 16.04.5 LTS (Xenial Xerus) and later) and Windows (Windows 7 and later) environment.
 Nevertheless SPA was developed in Windows 7, then some functionalities in Ubuntu could be a little different than expected.
@@ -72,13 +72,13 @@ Developing and testing SPA, tifffile libraries gave some problems. To solve this
 
 ## Running
 
-Only after above instructions, SPA can be executed only by CLI (Command Line Interface).
+After above instructions, SPA can be executed only by CLI (Command Line Interface).
 There are 2 different modes of running: using GUI and directly from Terminal.
 
 ### 1) Using GUI
 
 Open the Terminal and move to SPA folder.
-To run SPA, you have to digit he following command:
+To run SPA, you have to digit the following command:
 
 > python3 main.py
 
@@ -97,7 +97,9 @@ If you execute SPA without PARAMETERS, it shows you which data and in what order
 
 SPA needs particular images in input (as showsn in URD and DRS documents).
 They can found directly in SPA folder (dataset).
-Press **'Help'** in SPA for more info.
+
+PRESS **'Help'** IN SPA FOR MORE INFO.
+Installing on Windows7 not provided in this guide.
 
 ## Author
 
@@ -105,3 +107,5 @@ Press **'Help'** in SPA for more info.
 ***Corso di Software Engineering*** <br />
 ***Corso di Laurea Magistrale in Ingegneria Informatica - DIBRIS*** <br />
 ***Università degli Studi di Genova***
+
+jacopodeluca.private@gmail.com
