@@ -556,7 +556,7 @@ class Elaboration:
 
         dim = params[settings.DIM_PARAM]
         if dim[0] is not None and dim[1] is not None:
-            ratio = int(dim[0]/dim[1])
+            ratio = int(int(dim[0])/int(dim[1]))
             ET.SubElement(parameters, "ratio").text = str(ratio)
 
         # image
